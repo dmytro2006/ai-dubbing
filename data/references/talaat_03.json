@@ -1,0 +1,23 @@
+{
+  "clip_id": "talaat_03",
+  "source": "NASA closed captions, cut to the clip; NOT yet verified by hand",
+  "verified": false,
+  "text_en": "Ultimately the science that we learn from GOLD and ICON will help us be able to predict the near-Earth environment that affects, affects our communication and navigation signals and capability.",
+  "cues": [
+    {
+      "start": 0.68,
+      "end": 4.56,
+      "text": "Ultimately the science that we learn from GOLD and ICON"
+    },
+    {
+      "start": 4.58,
+      "end": 9.71,
+      "text": "will help us be able to predict the near-Earth environment that affects,"
+    },
+    {
+      "start": 9.73,
+      "end": 17.8,
+      "text": "affects our communication and navigation signals and capability."
+    }
+  ]
+}

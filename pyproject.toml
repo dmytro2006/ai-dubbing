@@ -1,7 +1,7 @@
 [project]
 name = "ai-dubbing"
 version = "0.1.0"
-description = "Add your description here"
+description = "Automatic English to Polish video dubbing with voice cloning and timing synchronisation"
 readme = "README.md"
 authors = [
     { name = "Dmytro Harasiuk", email = "garasyuk2006@gmail.com" }
@@ -32,6 +32,14 @@ url = "https://download.pytorch.org/whl/cpu"
 [[tool.uv.index]]
 name = "pytorch-cu132"
 url = "https://download.pytorch.org/whl/cu132"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
 
 [project.scripts]
 ai-dubbing = "ai_dubbing:main"

@@ -1,0 +1,7 @@
+speaker_id,name,gender,role,nasa_id,voice_start,voice_end
+crippen,Robert L. Crippen,M,astronaut (STS-1 pilot),KSC-20210325-MH-JRS01_0001-Bob_Crippen_Interview_on_STS-1_Soundbites,109.45,120.95
+greer,Katelynn Greer,F,research scientist (GOLD mission),GSFC_20180124_m12825_Katelynn_Greer,65.50,81.90
+jones,Sarah Jones,F,mission scientist (GOLD mission),GSFC_20180124_m12825_SarahJones,47.70,60.00
+talaat,Elsayed Talaat,M,heliophysics chief scientist,GSFC_20180124_m12825_ElsayedTalaat,21.00,41.00
+willing,Gerold Willing,M,professor (ACE-H2 experiment),GRC-2017-CM-0147.4,62.50,84.80
+mhanna,Ramona Mhanna,F,researcher (ACE-T9 experiment),GRC-2022-CM-0188.2,51.10,72.00

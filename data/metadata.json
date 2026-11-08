@@ -1,0 +1,309 @@
+{
+  "license": "Public domain (NASA-produced media are not subject to US copyright; see https://www.nasa.gov/nasa-brand-center/images-and-media/). Do not use to imply NASA endorsement.",
+  "sources": {
+    "GRC-2017-CM-0147.4": {
+      "title": "Professor Gerold Willing Explains the ACE-H2 Experiment Onboard the International Space Station (ISS)",
+      "center": "GRC",
+      "date": "16 Februar",
+      "url": "https://images.nasa.gov/details/GRC-2017-CM-0147.4"
+    },
+    "GRC-2022-CM-0188.2": {
+      "title": "Dr. Ramona Mhanna on the Three Different Types of ACET-9 Experiments",
+      "center": "GRC",
+      "date": "03 Februar",
+      "url": "https://images.nasa.gov/details/GRC-2022-CM-0188.2"
+    },
+    "GSFC_20180124_m12825_ElsayedTalaat": {
+      "title": "GOLD Resources: Elsayed Talaat Heliophysics Chief Scientist",
+      "center": "GSFC",
+      "date": "24 January",
+      "url": "https://images.nasa.gov/details/GSFC_20180124_m12825_ElsayedTalaat"
+    },
+    "GSFC_20180124_m12825_Katelynn_Greer": {
+      "title": "GOLD Resources: Katelynn Greer Research Scientist",
+      "center": "GSFC",
+      "date": "24 January",
+      "url": "https://images.nasa.gov/details/GSFC_20180124_m12825_Katelynn_Greer"
+    },
+    "GSFC_20180124_m12825_SarahJones": {
+      "title": "GOLD Resources: Sarah Jones Mission Scientist",
+      "center": "GSFC",
+      "date": "24 January",
+      "url": "https://images.nasa.gov/details/GSFC_20180124_m12825_SarahJones"
+    },
+    "KSC-20210325-MH-JRS01_0001-Bob_Crippen_Interview_on_STS-1_Soundbites": {
+      "title": "Bob Crippen Interview on STS-1: Soundbites",
+      "center": "KSC",
+      "date": "2021:03:25",
+      "url": "https://images.nasa.gov/details/KSC-20210325-MH-JRS01_0001-Bob_Crippen_Interview_on_STS-1_Soundbites"
+    }
+  },
+  "speakers": {
+    "crippen": {
+      "name": "Robert L. Crippen",
+      "gender": "M",
+      "role": "astronaut (STS-1 pilot)",
+      "source": "KSC-20210325-MH-JRS01_0001-Bob_Crippen_Interview_on_STS-1_Soundbites",
+      "voice_sample": "voices/crippen.wav",
+      "voice_start": 109.45,
+      "voice_end": 120.95
+    },
+    "greer": {
+      "name": "Katelynn Greer",
+      "gender": "F",
+      "role": "research scientist (GOLD mission)",
+      "source": "GSFC_20180124_m12825_Katelynn_Greer",
+      "voice_sample": "voices/greer.wav",
+      "voice_start": 65.5,
+      "voice_end": 81.9
+    },
+    "jones": {
+      "name": "Sarah Jones",
+      "gender": "F",
+      "role": "mission scientist (GOLD mission)",
+      "source": "GSFC_20180124_m12825_SarahJones",
+      "voice_sample": "voices/jones.wav",
+      "voice_start": 47.7,
+      "voice_end": 60.0
+    },
+    "talaat": {
+      "name": "Elsayed Talaat",
+      "gender": "M",
+      "role": "heliophysics chief scientist",
+      "source": "GSFC_20180124_m12825_ElsayedTalaat",
+      "voice_sample": "voices/talaat.wav",
+      "voice_start": 21.0,
+      "voice_end": 41.0
+    },
+    "willing": {
+      "name": "Gerold Willing",
+      "gender": "M",
+      "role": "professor (ACE-H2 experiment)",
+      "source": "GRC-2017-CM-0147.4",
+      "voice_sample": "voices/willing.wav",
+      "voice_start": 62.5,
+      "voice_end": 84.8
+    },
+    "mhanna": {
+      "name": "Ramona Mhanna",
+      "gender": "F",
+      "role": "researcher (ACE-T9 experiment)",
+      "source": "GRC-2022-CM-0188.2",
+      "voice_sample": "voices/mhanna.wav",
+      "voice_start": 51.1,
+      "voice_end": 72.0
+    }
+  },
+  "clips": [
+    {
+      "clip_id": "crippen_01",
+      "split": "dev",
+      "speaker_id": "crippen",
+      "gender": "M",
+      "source": "KSC-20210325-MH-JRS01_0001-Bob_Crippen_Interview_on_STS-1_Soundbites",
+      "source_url": "https://images.nasa.gov/details/KSC-20210325-MH-JRS01_0001-Bob_Crippen_Interview_on_STS-1_Soundbites",
+      "source_start": 4.66,
+      "source_end": 23.5,
+      "duration": 18.84,
+      "file": "clips/crippen_01.mp4",
+      "reference": "references/crippen_01.json",
+      "notes": ""
+    },
+    {
+      "clip_id": "greer_01",
+      "split": "dev",
+      "speaker_id": "greer",
+      "gender": "F",
+      "source": "GSFC_20180124_m12825_Katelynn_Greer",
+      "source_url": "https://images.nasa.gov/details/GSFC_20180124_m12825_Katelynn_Greer",
+      "source_start": 6.66,
+      "source_end": 22.44,
+      "duration": 15.78,
+      "file": "clips/greer_01.mp4",
+      "reference": "references/greer_01.json",
+      "notes": ""
+    },
+    {
+      "clip_id": "jones_01",
+      "split": "dev",
+      "speaker_id": "jones",
+      "gender": "F",
+      "source": "GSFC_20180124_m12825_SarahJones",
+      "source_url": "https://images.nasa.gov/details/GSFC_20180124_m12825_SarahJones",
+      "source_start": 6.66,
+      "source_end": 27.64,
+      "duration": 20.98,
+      "file": "clips/jones_01.mp4",
+      "reference": "references/jones_01.json",
+      "notes": ""
+    },
+    {
+      "clip_id": "talaat_01",
+      "split": "dev",
+      "speaker_id": "talaat",
+      "gender": "M",
+      "source": "GSFC_20180124_m12825_ElsayedTalaat",
+      "source_url": "https://images.nasa.gov/details/GSFC_20180124_m12825_ElsayedTalaat",
+      "source_start": 6.66,
+      "source_end": 19.14,
+      "duration": 12.48,
+      "file": "clips/talaat_01.mp4",
+      "reference": "references/talaat_01.json",
+      "notes": ""
+    },
+    {
+      "clip_id": "willing_01",
+      "split": "dev",
+      "speaker_id": "willing",
+      "gender": "M",
+      "source": "GRC-2017-CM-0147.4",
+      "source_url": "https://images.nasa.gov/details/GRC-2017-CM-0147.4",
+      "source_start": 13.53,
+      "source_end": 31.44,
+      "duration": 17.91,
+      "file": "clips/willing_01.mp4",
+      "reference": "references/willing_01.json",
+      "notes": "starts after the music intro of the source video"
+    },
+    {
+      "clip_id": "crippen_02",
+      "split": "test",
+      "speaker_id": "crippen",
+      "gender": "M",
+      "source": "KSC-20210325-MH-JRS01_0001-Bob_Crippen_Interview_on_STS-1_Soundbites",
+      "source_url": "https://images.nasa.gov/details/KSC-20210325-MH-JRS01_0001-Bob_Crippen_Interview_on_STS-1_Soundbites",
+      "source_start": 28.36,
+      "source_end": 45.08,
+      "duration": 16.72,
+      "file": "clips/crippen_02.mp4",
+      "reference": "references/crippen_02.json",
+      "notes": ""
+    },
+    {
+      "clip_id": "crippen_03",
+      "split": "test",
+      "speaker_id": "crippen",
+      "gender": "M",
+      "source": "KSC-20210325-MH-JRS01_0001-Bob_Crippen_Interview_on_STS-1_Soundbites",
+      "source_url": "https://images.nasa.gov/details/KSC-20210325-MH-JRS01_0001-Bob_Crippen_Interview_on_STS-1_Soundbites",
+      "source_start": 50.26,
+      "source_end": 64.74,
+      "duration": 14.48,
+      "file": "clips/crippen_03.mp4",
+      "reference": "references/crippen_03.json",
+      "notes": ""
+    },
+    {
+      "clip_id": "greer_02",
+      "split": "test",
+      "speaker_id": "greer",
+      "gender": "F",
+      "source": "GSFC_20180124_m12825_Katelynn_Greer",
+      "source_url": "https://images.nasa.gov/details/GSFC_20180124_m12825_Katelynn_Greer",
+      "source_start": 24.06,
+      "source_end": 42.65,
+      "duration": 18.59,
+      "file": "clips/greer_02.mp4",
+      "reference": "references/greer_02.json",
+      "notes": ""
+    },
+    {
+      "clip_id": "greer_03",
+      "split": "test",
+      "speaker_id": "greer",
+      "gender": "F",
+      "source": "GSFC_20180124_m12825_Katelynn_Greer",
+      "source_url": "https://images.nasa.gov/details/GSFC_20180124_m12825_Katelynn_Greer",
+      "source_start": 44.26,
+      "source_end": 63.64,
+      "duration": 19.38,
+      "file": "clips/greer_03.mp4",
+      "reference": "references/greer_03.json",
+      "notes": ""
+    },
+    {
+      "clip_id": "jones_02",
+      "split": "test",
+      "speaker_id": "jones",
+      "gender": "F",
+      "source": "GSFC_20180124_m12825_SarahJones",
+      "source_url": "https://images.nasa.gov/details/GSFC_20180124_m12825_SarahJones",
+      "source_start": 29.66,
+      "source_end": 45.62,
+      "duration": 15.96,
+      "file": "clips/jones_02.mp4",
+      "reference": "references/jones_02.json",
+      "notes": ""
+    },
+    {
+      "clip_id": "talaat_02",
+      "split": "test",
+      "speaker_id": "talaat",
+      "gender": "M",
+      "source": "GSFC_20180124_m12825_ElsayedTalaat",
+      "source_url": "https://images.nasa.gov/details/GSFC_20180124_m12825_ElsayedTalaat",
+      "source_start": 53.26,
+      "source_end": 64.36,
+      "duration": 11.1,
+      "file": "clips/talaat_02.mp4",
+      "reference": "references/talaat_02.json",
+      "notes": ""
+    },
+    {
+      "clip_id": "talaat_03",
+      "split": "test",
+      "speaker_id": "talaat",
+      "gender": "M",
+      "source": "GSFC_20180124_m12825_ElsayedTalaat",
+      "source_url": "https://images.nasa.gov/details/GSFC_20180124_m12825_ElsayedTalaat",
+      "source_start": 65.96,
+      "source_end": 83.76,
+      "duration": 17.8,
+      "file": "clips/talaat_03.mp4",
+      "reference": "references/talaat_03.json",
+      "notes": ""
+    },
+    {
+      "clip_id": "willing_02",
+      "split": "test",
+      "speaker_id": "willing",
+      "gender": "M",
+      "source": "GRC-2017-CM-0147.4",
+      "source_url": "https://images.nasa.gov/details/GRC-2017-CM-0147.4",
+      "source_start": 32.42,
+      "source_end": 62.22,
+      "duration": 29.8,
+      "file": "clips/willing_02.mp4",
+      "reference": "references/willing_02.json",
+      "notes": ""
+    },
+    {
+      "clip_id": "mhanna_01",
+      "split": "test",
+      "speaker_id": "mhanna",
+      "gender": "F",
+      "source": "GRC-2022-CM-0188.2",
+      "source_url": "https://images.nasa.gov/details/GRC-2022-CM-0188.2",
+      "source_start": 0.76,
+      "source_end": 29.44,
+      "duration": 28.68,
+      "file": "clips/mhanna_01.mp4",
+      "reference": "references/mhanna_01.json",
+      "notes": "speaker unseen in the dev split; filler words (uh)"
+    },
+    {
+      "clip_id": "mhanna_02",
+      "split": "test",
+      "speaker_id": "mhanna",
+      "gender": "F",
+      "source": "GRC-2022-CM-0188.2",
+      "source_url": "https://images.nasa.gov/details/GRC-2022-CM-0188.2",
+      "source_start": 39.62,
+      "source_end": 50.86,
+      "duration": 11.24,
+      "file": "clips/mhanna_02.mp4",
+      "reference": "references/mhanna_02.json",
+      "notes": "speaker unseen in the dev split; filler words (uh)"
+    }
+  ]
+}

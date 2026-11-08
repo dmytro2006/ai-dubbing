@@ -1,0 +1,38 @@
+{
+  "clip_id": "jones_01",
+  "source": "NASA closed captions, cut to the clip; NOT yet verified by hand",
+  "verified": false,
+  "text_en": "GOLD measures the upper atmosphere, which is directly affected by the Sun and what we call space weather. Scientists are working to better be able to predict space weather because it directly affects the safety of our satellites, the health of our astronauts, and the technologies that we use every day in our life like GPS navigation.",
+  "cues": [
+    {
+      "start": 0.93,
+      "end": 4.91,
+      "text": "GOLD measures the upper atmosphere, which is directly affected by the Sun"
+    },
+    {
+      "start": 4.93,
+      "end": 7.49,
+      "text": "and what we call space weather."
+    },
+    {
+      "start": 7.51,
+      "end": 11.34,
+      "text": "Scientists are working to better be able to predict space weather"
+    },
+    {
+      "start": 11.36,
+      "end": 14.54,
+      "text": "because it directly affects the safety of our satellites,"
+    },
+    {
+      "start": 14.56,
+      "end": 16.13,
+      "text": "the health of our astronauts,"
+    },
+    {
+      "start": 16.15,
+      "end": 20.98,
+      "text": "and the technologies that we use every day in our life like GPS navigation."
+    }
+  ]
+}

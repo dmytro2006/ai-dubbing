@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Dataset media (rebuild with: uv run python scripts/build_dataset.py)
+data/raw/
+data/clips/
+data/voices/
+
+# Pipeline outputs
+output/
+
+# macOS / Claude app
+.DS_Store
+Claude outputs/

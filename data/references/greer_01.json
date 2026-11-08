@@ -1,0 +1,33 @@
+{
+  "clip_id": "greer_01",
+  "source": "NASA closed captions, cut to the clip; NOT yet verified by hand",
+  "verified": false,
+  "text_en": "The best outcome for the GOLD mission will be a comprehensive understanding of the thermosphere and ionosphere and how it responds to geomagnetic storms, plasma bubbles, and forcing from below like waves and tides and that’s what we really hope to get out of this.",
+  "cues": [
+    {
+      "start": 0.84,
+      "end": 4.09,
+      "text": "The best outcome for the GOLD mission will be a comprehensive understanding"
+    },
+    {
+      "start": 4.11,
+      "end": 6.26,
+      "text": "of the thermosphere and ionosphere"
+    },
+    {
+      "start": 6.28,
+      "end": 10.68,
+      "text": "and how it responds to geomagnetic storms, plasma bubbles,"
+    },
+    {
+      "start": 10.7,
+      "end": 13.11,
+      "text": "and forcing from below like waves and tides"
+    },
+    {
+      "start": 13.13,
+      "end": 15.78,
+      "text": "and that’s what we really hope to get out of this."
+    }
+  ]
+}

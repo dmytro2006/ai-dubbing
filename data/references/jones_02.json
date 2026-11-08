@@ -1,0 +1,33 @@
+{
+  "clip_id": "jones_02",
+  "source": "NASA closed captions, cut to the clip; NOT yet verified by hand",
+  "verified": false,
+  "text_en": "GOLD will be sitting 22,000 miles above Earth, which means that it can see a whole half of the Earth - all of the Western Hemisphere and it will be hovering over one particular point on Earth watching the dynamics of the atmosphere play out below.",
+  "cues": [
+    {
+      "start": 0.49,
+      "end": 3.43,
+      "text": "GOLD will be sitting 22,000 miles above Earth,"
+    },
+    {
+      "start": 3.45,
+      "end": 5.99,
+      "text": "which means that it can see a whole half of the Earth"
+    },
+    {
+      "start": 6.01,
+      "end": 7.97,
+      "text": "- all of the Western Hemisphere"
+    },
+    {
+      "start": 7.99,
+      "end": 11.56,
+      "text": "and it will be hovering over one particular point on Earth"
+    },
+    {
+      "start": 11.58,
+      "end": 15.96,
+      "text": "watching the dynamics of the atmosphere play out below."
+    }
+  ]
+}

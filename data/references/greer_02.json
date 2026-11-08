@@ -1,0 +1,28 @@
+{
+  "clip_id": "greer_02",
+  "source": "NASA closed captions, cut to the clip; NOT yet verified by hand",
+  "verified": false,
+  "text_en": "GOLD is an unprecedented opportunity to look at the full disk of the Americas that we can look at the temperature and composition of the thermosphere and ionosphere and this will really help us study things like geomagnetic storms, plasma bubbles and the waves and tides that propagate from up from below.",
+  "cues": [
+    {
+      "start": 0.66,
+      "end": 5.32,
+      "text": "GOLD is an unprecedented opportunity to look at the full disk of the Americas"
+    },
+    {
+      "start": 5.34,
+      "end": 9.99,
+      "text": "that we can look at the temperature and composition of the thermosphere and ionosphere"
+    },
+    {
+      "start": 10.01,
+      "end": 13.09,
+      "text": "and this will really help us study things like geomagnetic storms,"
+    },
+    {
+      "start": 13.11,
+      "end": 18.59,
+      "text": "plasma bubbles and the waves and tides that propagate from up from below."
+    }
+  ]
+}
