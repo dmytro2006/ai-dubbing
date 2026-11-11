@@ -1,0 +1,23 @@
+{
+  "clip_id": "talaat_01",
+  "source": "NASA closed captions, cut to the clip; NOT yet verified by hand",
+  "verified": false,
+  "text_en": "The GOLD mission stands for Global Observations of the Limb and Disk and it’s a very important mission for us to understand the upper atmosphere of the Earth - the thermosphere and ionosphere of the Earth.",
+  "cues": [
+    {
+      "start": 0.65,
+      "end": 5.07,
+      "text": "The GOLD mission stands for Global Observations of the Limb and Disk"
+    },
+    {
+      "start": 5.09,
+      "end": 9.43,
+      "text": "and it’s a very important mission for us to understand the upper atmosphere of the Earth"
+    },
+    {
+      "start": 9.45,
+      "end": 12.48,
+      "text": "- the thermosphere and ionosphere of the Earth."
+    }
+  ]
+}

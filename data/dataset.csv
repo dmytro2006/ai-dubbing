@@ -1,0 +1,16 @@
+clip_id,split,speaker_id,nasa_id,start,end,notes
+crippen_01,dev,crippen,KSC-20210325-MH-JRS01_0001-Bob_Crippen_Interview_on_STS-1_Soundbites,4.90,23.40,
+greer_01,dev,greer,GSFC_20180124_m12825_Katelynn_Greer,6.90,22.50,
+jones_01,dev,jones,GSFC_20180124_m12825_SarahJones,6.90,27.70,
+talaat_01,dev,talaat,GSFC_20180124_m12825_ElsayedTalaat,6.90,19.20,
+willing_01,dev,willing,GRC-2017-CM-0147.4,13.35,31.40,starts after the music intro of the source video
+crippen_02,test,crippen,KSC-20210325-MH-JRS01_0001-Bob_Crippen_Interview_on_STS-1_Soundbites,28.60,45.00,
+crippen_03,test,crippen,KSC-20210325-MH-JRS01_0001-Bob_Crippen_Interview_on_STS-1_Soundbites,50.30,64.60,
+greer_02,test,greer,GSFC_20180124_m12825_Katelynn_Greer,24.30,42.75,
+greer_03,test,greer,GSFC_20180124_m12825_Katelynn_Greer,44.50,63.70,
+jones_02,test,jones,GSFC_20180124_m12825_SarahJones,29.90,45.70,
+talaat_02,test,talaat,GSFC_20180124_m12825_ElsayedTalaat,53.50,64.40,
+talaat_03,test,talaat,GSFC_20180124_m12825_ElsayedTalaat,66.20,83.80,
+willing_02,test,willing,GRC-2017-CM-0147.4,32.50,62.10,
+mhanna_01,test,mhanna,GRC-2022-CM-0188.2,1.00,29.20,speaker unseen in the dev split; filler words (uh)
+mhanna_02,test,mhanna,GRC-2022-CM-0188.2,39.50,51.10,speaker unseen in the dev split; filler words (uh)

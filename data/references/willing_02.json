@@ -1,0 +1,73 @@
+{
+  "clip_id": "willing_02",
+  "source": "NASA closed captions, cut to the clip; NOT yet verified by hand",
+  "verified": false,
+  "text_en": "One of the key issues that we run into when we perform these experiments on the ground, is that gravity forces the crystallization to happen on a two-dimensional surface. Which means that we only can get one type of crystal structure. And we know that that crystal structure is based only on the large particles. It does not incorporate the small particles. By doing these experiments in microgravity, we're hoping to be able to drive the crystallization of both the large and small particles simultaneously so that we can incorporate both particles into the ultimate structure.",
+  "cues": [
+    {
+      "start": 0.136,
+      "end": 1.686,
+      "text": "One of the key issues that we run"
+    },
+    {
+      "start": 1.736,
+      "end": 4.196,
+      "text": "into when we perform these experiments on the ground,"
+    },
+    {
+      "start": 4.196,
+      "end": 7.856,
+      "text": "is that gravity forces the crystallization to happen"
+    },
+    {
+      "start": 7.856,
+      "end": 9.446,
+      "text": "on a two-dimensional surface."
+    },
+    {
+      "start": 9.446,
+      "end": 12.176,
+      "text": "Which means that we only can get one type of crystal structure."
+    },
+    {
+      "start": 12.626,
+      "end": 14.906,
+      "text": "And we know that that crystal structure is based only"
+    },
+    {
+      "start": 14.906,
+      "end": 15.926,
+      "text": "on the large particles."
+    },
+    {
+      "start": 16.136,
+      "end": 18.306,
+      "text": "It does not incorporate the small particles."
+    },
+    {
+      "start": 18.636,
+      "end": 21.446,
+      "text": "By doing these experiments in microgravity, we're hoping"
+    },
+    {
+      "start": 21.446,
+      "end": 23.426,
+      "text": "to be able to drive the crystallization"
+    },
+    {
+      "start": 23.426,
+      "end": 26.406,
+      "text": "of both the large and small particles simultaneously"
+    },
+    {
+      "start": 26.626,
+      "end": 28.436,
+      "text": "so that we can incorporate both particles"
+    },
+    {
+      "start": 28.436,
+      "end": 29.536,
+      "text": "into the ultimate structure."
+    }
+  ]
+}

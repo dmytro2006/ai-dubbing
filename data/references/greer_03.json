@@ -1,0 +1,33 @@
+{
+  "clip_id": "greer_03",
+  "source": "NASA closed captions, cut to the clip; NOT yet verified by hand",
+  "verified": false,
+  "text_en": "The ionosphere and thermosphere are part our near-space environment and this is the region where communication and navigation signals have to transit and when they do they can be impacted by different kinds of variability that happens there. And when there is variability you can get errors and so the idea is to be able to forecast this variability and mitigate those errors.",
+  "cues": [
+    {
+      "start": 0.68,
+      "end": 3.57,
+      "text": "The ionosphere and thermosphere are part our near-space environment"
+    },
+    {
+      "start": 3.59,
+      "end": 7.56,
+      "text": "and this is the region where communication and navigation signals have to transit"
+    },
+    {
+      "start": 7.58,
+      "end": 12.04,
+      "text": "and when they do they can be impacted by different kinds of variability that happens there."
+    },
+    {
+      "start": 12.06,
+      "end": 14.61,
+      "text": "And when there is variability you can get errors"
+    },
+    {
+      "start": 14.63,
+      "end": 19.38,
+      "text": "and so the idea is to be able to forecast this variability and mitigate those errors."
+    }
+  ]
+}

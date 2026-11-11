@@ -1,0 +1,23 @@
+{
+  "clip_id": "talaat_02",
+  "source": "NASA closed captions, cut to the clip; NOT yet verified by hand",
+  "verified": false,
+  "text_en": "NASA hopes to achieve with the GOLD and ICON missions a better understanding of, of the near-Earth space that’s so important for our global infrastructure.",
+  "cues": [
+    {
+      "start": 0.68,
+      "end": 4.06,
+      "text": "NASA hopes to achieve with the GOLD and ICON missions"
+    },
+    {
+      "start": 4.08,
+      "end": 7.4,
+      "text": "a better understanding of, of the near-Earth space"
+    },
+    {
+      "start": 7.42,
+      "end": 11.1,
+      "text": "that’s so important for our global infrastructure."
+    }
+  ]
+}

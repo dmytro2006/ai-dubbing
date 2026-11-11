@@ -1,0 +1,23 @@
+{
+  "clip_id": "crippen_03",
+  "source": "NASA closed captions, cut to the clip; NOT yet verified by hand",
+  "verified": false,
+  "text_en": "It was only when the count got inside of about a minute that I turned to John (Young) and said, I think we might really do it. I think it was at that point my heart rate went up to about 130, it was probably one of the most exciting moments of my life.",
+  "cues": [
+    {
+      "start": 0.38,
+      "end": 4.94,
+      "text": "It was only when the count got inside of about a minute that I turned to John (Young) and said,"
+    },
+    {
+      "start": 4.94,
+      "end": 10.7,
+      "text": "I think we might really do it. I think it was at that point my heart rate went up to about 130,"
+    },
+    {
+      "start": 10.7,
+      "end": 14.14,
+      "text": "it was probably one of the most exciting moments of my life."
+    }
+  ]
+}

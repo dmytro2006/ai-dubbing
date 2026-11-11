@@ -1,0 +1,38 @@
+{
+  "clip_id": "willing_01",
+  "source": "NASA closed captions, cut to the clip; NOT yet verified by hand",
+  "verified": false,
+  "text_en": "We're looking at a bimodal particle size distribution, and a bimodal particle charge distribution. Which will help stabilize the entire system. We're trying to determine what is the exact nature of the stabilization mechanism, and then how we can utilize that to actually create crystal structures in three-dimensions.",
+  "cues": [
+    {
+      "start": 0.266,
+      "end": 2.986,
+      "text": "We're looking at a bimodal particle size distribution,"
+    },
+    {
+      "start": 2.986,
+      "end": 5.626,
+      "text": "and a bimodal particle charge distribution."
+    },
+    {
+      "start": 5.856,
+      "end": 8.256,
+      "text": "Which will help stabilize the entire system."
+    },
+    {
+      "start": 9.126,
+      "end": 12.056,
+      "text": "We're trying to determine what is the exact nature"
+    },
+    {
+      "start": 12.056,
+      "end": 15.036,
+      "text": "of the stabilization mechanism, and then how we can utilize"
+    },
+    {
+      "start": 15.036,
+      "end": 17.796,
+      "text": "that to actually create crystal structures in three-dimensions."
+    }
+  ]
+}

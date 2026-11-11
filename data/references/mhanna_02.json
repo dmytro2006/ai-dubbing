@@ -1,0 +1,48 @@
+{
+  "clip_id": "mhanna_02",
+  "source": "NASA closed captions, cut to the clip; NOT yet verified by hand",
+  "verified": false,
+  "text_en": "The chains that we can actually make in the lab, uh, are very flexible. They-- you can imagine them as beads being connected by something like a spring, and this gives them very big flexibility.",
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 0.92,
+      "text": "The chains that we can"
+    },
+    {
+      "start": 0.987,
+      "end": 2.288,
+      "text": "Actually make in the lab,"
+    },
+    {
+      "start": 2.355,
+      "end": 3.89,
+      "text": "Uh, are very flexible."
+    },
+    {
+      "start": 3.956,
+      "end": 5.391,
+      "text": "They-- you can imagine them"
+    },
+    {
+      "start": 5.458,
+      "end": 6.959,
+      "text": "As beads being connected"
+    },
+    {
+      "start": 7.026,
+      "end": 8.694,
+      "text": "By something like a spring,"
+    },
+    {
+      "start": 8.761,
+      "end": 9.662,
+      "text": "And this gives them"
+    },
+    {
+      "start": 9.729,
+      "end": 11.24,
+      "text": "Very big flexibility."
+    }
+  ]
+}
